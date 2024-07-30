@@ -21,7 +21,7 @@ export default function Header() {
           <Menu />
         </IconButton>
         <Typography variant="h6" sx={{ flexGrow: 1 }}>
-          PumpFun
+          Pump
         </Typography>
         <Reload />
       </Toolbar>
